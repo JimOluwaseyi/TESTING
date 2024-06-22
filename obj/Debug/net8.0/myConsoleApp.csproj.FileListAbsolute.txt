@@ -1,0 +1,14 @@
+/home/jimoh/myConsoleApp/bin/Debug/net8.0/myConsoleApp
+/home/jimoh/myConsoleApp/bin/Debug/net8.0/myConsoleApp.deps.json
+/home/jimoh/myConsoleApp/bin/Debug/net8.0/myConsoleApp.runtimeconfig.json
+/home/jimoh/myConsoleApp/bin/Debug/net8.0/myConsoleApp.dll
+/home/jimoh/myConsoleApp/bin/Debug/net8.0/myConsoleApp.pdb
+/home/jimoh/myConsoleApp/obj/Debug/net8.0/myConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimoh/myConsoleApp/obj/Debug/net8.0/myConsoleApp.AssemblyInfoInputs.cache
+/home/jimoh/myConsoleApp/obj/Debug/net8.0/myConsoleApp.AssemblyInfo.cs
+/home/jimoh/myConsoleApp/obj/Debug/net8.0/myConsoleApp.csproj.CoreCompileInputs.cache
+/home/jimoh/myConsoleApp/obj/Debug/net8.0/myConsoleApp.dll
+/home/jimoh/myConsoleApp/obj/Debug/net8.0/refint/myConsoleApp.dll
+/home/jimoh/myConsoleApp/obj/Debug/net8.0/myConsoleApp.pdb
+/home/jimoh/myConsoleApp/obj/Debug/net8.0/myConsoleApp.genruntimeconfig.cache
+/home/jimoh/myConsoleApp/obj/Debug/net8.0/ref/myConsoleApp.dll
